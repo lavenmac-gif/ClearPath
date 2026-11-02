@@ -1,0 +1,8 @@
+{
+  "name": "ClearPath",
+  "description": "A calm, adaptive decision companion to structure your thinking and help you make enough progress to move forward.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
